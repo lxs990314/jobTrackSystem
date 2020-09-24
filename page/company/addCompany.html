@@ -110,8 +110,15 @@
         var form = layui.form
             , layer = layui.layer
             , layedit = layui.layedit
-            , laydate = layui.laydate;
+            , laydate = layui.laydate
+            , $ = layui.$;
 
+        $("#cno").blur(function(){
+            var val = $("cno").val();
+            if(val === "") {
+                layer.msg('企业名称不能为空', {icon: 5});
+            }
+        });
         //日期
         laydate.render({
             elem: '#date1'
