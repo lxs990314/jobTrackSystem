@@ -123,6 +123,12 @@
       "target": "_self",
       "child": [
         {
+          "title": "管理员添加",
+          "href": "page/userMange/addMange.html",
+          "icon": "fa fa-search",
+          "target": "_self"
+        },
+        {
           "title": "管理员维护",
           "href": "page/userMange/findAdmin.html",
           "icon": "fa fa-search",
