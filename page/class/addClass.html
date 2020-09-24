@@ -116,8 +116,32 @@
         var form = layui.form
             , layer = layui.layer
             , layedit = layui.layedit
-            , laydate = layui.laydate;
+            , laydate = layui.laydate
+            ,$ = layui.$;
 
+        $("#cno").blur(function(){
+            var num = $("#cno").val();
+            var reg = /^[0-9]*$/;//正则表达式
+            if(num.length < 6 || num.length > 6) {
+                layer.msg('编号只能是六位数', {icon: 5});
+            } else {
+                if(!reg.test(num)) {
+                    layer.msg('编号只能是阿拉伯数字', {icon: 5});
+                }
+            }
+        });
+        $("#date1").blur(function(){
+            var val = $("#date1").val();
+            if(val === "") {
+                layer.msg('入学时间不能为空', {icon: 5});
+            }
+        });
+        $("#date2").blur(function(){
+            var val = $("#date2").val();
+            if(val === "") {
+                layer.msg('毕业时间不能为空', {icon: 5});
+            }
+        });
         //日期
         laydate.render({
             elem: '#date1'
