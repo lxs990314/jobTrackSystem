@@ -1,0 +1,112 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "companyName": "北京柯蓝科技有限公司",
+      "headCity": "北京",
+      "period": "计算机金融",
+      "mange": "刘海",
+      "tel": "18412345678",
+      "state": "合作中",
+      "GetJob": "Java开发",
+      "isGetJob": "否"
+
+
+    },
+    {
+      "id": 2,
+      "companyName": "北京柯蓝科技有限公司",
+      "headCity": "北京",
+      "period": "计算机金融",
+      "mange": "刘海",
+      "tel": "18412345678",
+      "state": "合作中",
+      "GetJob": "Java开发",
+      "isGetJob": "否"
+    },{
+      "id": 3,
+      "companyName": "北京柯蓝科技有限公司",
+      "headCity": "北京",
+      "period": "计算机金融",
+      "mange": "刘海",
+      "tel": "18412345678",
+      "state": "合作中",
+      "GetJob": "Java开发",
+      "isGetJob": "否"
+    },{
+      "id": 4,
+      "companyName": "北京柯蓝科技有限公司",
+      "headCity": "北京",
+      "period": "计算机金融",
+      "mange": "刘海",
+      "tel": "18412345678",
+      "state": "合作中",
+      "GetJob": "Java开发",
+      "isGetJob": "否"
+    },{
+      "id": 5,
+      "companyName": "北京柯蓝科技有限公司",
+      "headCity": "北京",
+      "period": "计算机金融",
+      "mange": "刘海",
+      "tel": "18412345678",
+      "state": "合作中",
+      "GetJob": "Java开发",
+      "isGetJob": "否"
+    },{
+      "id": 6,
+      "companyName": "北京柯蓝科技有限公司",
+      "headCity": "北京",
+      "period": "计算机金融",
+      "mange": "刘海",
+      "tel": "18412345678",
+      "state": "合作中",
+      "GetJob": "Java开发",
+      "isGetJob": "否"
+    },{
+      "id": 7,
+      "companyName": "北京柯蓝科技有限公司",
+      "headCity": "北京",
+      "period": "计算机金融",
+      "mange": "刘海",
+      "tel": "18412345678",
+      "state": "合作中",
+      "GetJob": "Java开发",
+      "isGetJob": "否"
+    },{
+      "id": 8,
+      "companyName": "北京柯蓝科技有限公司",
+      "headCity": "北京",
+      "period": "计算机金融",
+      "mange": "刘海",
+      "tel": "18412345678",
+      "state": "合作中",
+      "GetJob": "Java开发",
+      "isGetJob": "否"
+    },{
+      "id": 9,
+      "companyName": "北京柯蓝科技有限公司",
+      "headCity": "北京",
+      "period": "计算机金融",
+      "mange": "刘海",
+      "tel": "18412345678",
+      "state": "合作中",
+      "GetJob": "Java开发",
+      "isGetJob": "否"
+    },{
+      "id": 10,
+      "companyName": "北京柯蓝科技有限公司",
+      "headCity": "北京",
+      "period": "计算机金融",
+      "mange": "刘海",
+      "tel": "18412345678",
+      "state": "合作中",
+      "GetJob": "Java开发",
+      "isGetJob": "否"
+    }
+
+  ]
+}

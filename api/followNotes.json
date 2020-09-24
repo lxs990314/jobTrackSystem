@@ -1,0 +1,102 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "majorName": "计算机科学与技术学院",
+      "className": "1001",
+      "period": "2017",
+      "sno": "100101",
+      "username": "张三",
+      "company": "北京中软科技公司",
+      "visitTime": "2019-05-30"
+
+
+    },
+    {
+      "id": 2,
+      "majorName": "计算机科学与技术学院",
+      "className": "1001",
+      "period": "2017",
+      "sno": "100101",
+      "username": "张三",
+      "company": "北京中软科技公司",
+      "visitTime": "2019-05-30"
+    },{
+      "id": 3,
+      "majorName": "计算机科学与技术学院",
+      "className": "1001",
+      "period": "2017",
+      "sno": "100101",
+      "username": "张三",
+      "company": "北京中软科技公司",
+      "visitTime": "2019-05-30"
+    },{
+      "id": 4,
+      "majorName": "计算机科学与技术学院",
+      "className": "1001",
+      "period": "2017",
+      "sno": "100101",
+      "username": "张三",
+      "company": "北京中软科技公司",
+      "visitTime": "2019-05-30"
+    },{
+      "id": 5,
+      "majorName": "计算机科学与技术学院",
+      "className": "1001",
+      "period": "2017",
+      "sno": "100101",
+      "username": "张三",
+      "company": "北京中软科技公司",
+      "visitTime": "2019-05-30"
+    },{
+      "id": 6,
+      "majorName": "计算机科学与技术学院",
+      "className": "1001",
+      "period": "2017",
+      "sno": "100101",
+      "username": "张三",
+      "company": "北京中软科技公司",
+      "visitTime": "2019-05-30"
+    },{
+      "id": 7,
+      "majorName": "计算机科学与技术学院",
+      "className": "1001",
+      "period": "2017",
+      "sno": "100101",
+      "username": "张三",
+      "company": "北京中软科技公司",
+      "visitTime": "2019-05-30"
+    },{
+      "id": 8,
+      "majorName": "计算机科学与技术学院",
+      "className": "1001",
+      "period": "2017",
+      "sno": "100101",
+      "username": "张三",
+      "company": "北京中软科技公司",
+      "visitTime": "2019-05-30"
+    },{
+      "id": 9,
+      "majorName": "计算机科学与技术学院",
+      "className": "1001",
+      "period": "2017",
+      "sno": "100101",
+      "username": "张三",
+      "company": "北京中软科技公司",
+      "visitTime": "2019-05-30"
+    },{
+      "id": 10,
+      "majorName": "计算机科学与技术学院",
+      "className": "1001",
+      "period": "2017",
+      "sno": "100101",
+      "username": "张三",
+      "company": "北京中软科技公司",
+      "visitTime": "2019-05-30"
+    }
+
+  ]
+}

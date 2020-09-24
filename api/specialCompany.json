@@ -1,0 +1,83 @@
+{
+  "code": 0,
+  "msg": "",
+  "count": 10,
+  "data": [
+    {
+      "id": 1,
+      "companyName": "北京柯蓝科技有限公司",
+      "mange": "刘海",
+      "schoolMange": "张三",
+      "openTime": "2019-05-26",
+      "place": "科技楼11层1101"
+
+
+
+    },
+    {
+      "id": 2,
+      "companyName": "北京柯蓝科技有限公司",
+      "mange": "刘海",
+      "schoolMange": "张三",
+      "openTime": "2019-05-26",
+      "place": "科技楼11层1101"
+    },{
+      "id": 3,
+      "companyName": "北京柯蓝科技有限公司",
+      "mange": "刘海",
+      "schoolMange": "张三",
+      "openTime": "2019-05-26",
+      "place": "科技楼11层1101"
+    },{
+      "id": 4,
+      "companyName": "北京柯蓝科技有限公司",
+      "mange": "刘海",
+      "schoolMange": "张三",
+      "openTime": "2019-05-26",
+      "place": "科技楼11层1101"
+    },{
+      "id": 5,
+      "companyName": "北京柯蓝科技有限公司",
+      "mange": "刘海",
+      "schoolMange": "张三",
+      "openTime": "2019-05-26",
+      "place": "科技楼11层1101"
+    },{
+      "id": 6,
+      "companyName": "北京柯蓝科技有限公司",
+      "mange": "刘海",
+      "schoolMange": "张三",
+      "openTime": "2019-05-26",
+      "place": "科技楼11层1101"
+    },{
+      "id": 7,
+      "companyName": "北京柯蓝科技有限公司",
+      "mange": "刘海",
+      "schoolMange": "张三",
+      "openTime": "2019-05-26",
+      "place": "科技楼11层1101"
+    },{
+      "id": 8,
+      "companyName": "北京柯蓝科技有限公司",
+      "mange": "刘海",
+      "schoolMange": "张三",
+      "openTime": "2019-05-26",
+      "place": "科技楼11层1101"
+    },{
+      "id": 9,
+      "companyName": "北京柯蓝科技有限公司",
+      "mange": "刘海",
+      "schoolMange": "张三",
+      "openTime": "2019-05-26",
+      "place": "科技楼11层1101"
+    },{
+      "id": 10,
+      "companyName": "北京柯蓝科技有限公司",
+      "mange": "刘海",
+      "schoolMange": "张三",
+      "openTime": "2019-05-26",
+      "place": "科技楼11层1101"
+    }
+
+  ]
+}
