@@ -32,7 +32,7 @@
             <div class="layui-form-item">
                 <label class="layui-form-label required" >用户名</label>
                 <div class="layui-input-block">
-                    <input id="cno" type="text" name="cno" lay-verify="title" autocomplete="off" placeholder="" class="layui-input">
+                    <input id="name" type="text" name="cno" lay-verify="title" autocomplete="off" placeholder="" class="layui-input">
                 </div>
             </div>
             <div class="layui-form-item">
@@ -78,7 +78,7 @@
             <div class="layui-form-item">
                 <label class="layui-form-label required" >姓名</label>
                 <div class="layui-input-block">
-                    <input id="studentName" type="text" name="studentName" lay-verify="姓名" autocomplete="off" placeholder="请输入您的姓名" class="layui-input">
+                    <input id="Name" type="text" name="studentName" lay-verify="姓名" autocomplete="off" placeholder="请输入您的姓名" class="layui-input">
                 </div>
             </div>
             <div class="layui-form-item">
@@ -144,8 +144,48 @@
         var form = layui.form
             , layer = layui.layer
             , layedit = layui.layedit
-            , laydate = layui.laydate;
+            , laydate = layui.laydate
+            ,$ = layui.$;
 
+        $("#cno").blur(function(){
+            var num = $("#cno").val();
+            var reg = /^[0-9]*$/;//正则表达式
+            if(num.length < 6 || num.length > 6) {
+                layer.msg('编号只能是六位数', {icon: 5});
+            } else {
+                if(!reg.test(num)) {
+                    layer.msg('编号只能是阿拉伯数字', {icon: 5});
+                }
+            }
+        });
+        $("#sno").blur(function(){
+            var val = $("#sno").val();
+            if(val === "") {
+                layer.msg('密码不能为空', {icon: 5});
+            }
+        });
+        $("#name").blur(function(){
+            var val = $("#name").val();
+            if(val === "") {
+                layer.msg('用户名不能为空', {icon: 5});
+            }
+
+        });
+        $("#Name").blur(function(){
+            var val = $("#Name").val();
+            if(val === "") {
+                layer.msg('姓名不能为空', {icon: 5});
+            }
+
+        });
+
+        $("#job").blur(function(){
+            var val = $("#job").val();
+            if(val === "") {
+                layer.msg('职位不能为空', {icon: 5});
+            }
+
+        });
         //日期
         laydate.render({
             elem: '#date1'
