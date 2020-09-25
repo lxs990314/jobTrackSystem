@@ -125,13 +125,13 @@
         {
           "title": "超级管理员添加",
           "href": "page/userMange/addSupMange.html",
-          "icon": "fa fa-search",
+          "icon": "fa fa-plus-square-o",
           "target": "_self"
         },
         {
           "title": "管理员添加",
           "href": "page/userMange/addMange.html",
-          "icon": "fa fa-search",
+          "icon": "fa fa-plus-square-o",
           "target": "_self"
         },
         {
